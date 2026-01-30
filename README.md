@@ -2,7 +2,7 @@
 
 A security-first MCP proxy that authenticates users via [Descope](https://www.descope.com) and forwards requests to target MCP servers.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Forius123%2Ffastmcp-proxy-vercel&env=DESCOPE_CONFIG_URL,TARGET_MCP_SERVER_URL,TARGET_TOKEN&envDescription=Configure%20your%20Descope%20and%20target%20MCP%20server&envLink=https%3A%2F%2Fgithub.com%2Forius123%2Ffastmcp-proxy-vercel%23configuration)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Forius123%2Ffastmcp-proxy-vercel&env=DESCOPE_CONFIG_URL,TARGET_MCP_SERVER_URL&envDescription=Configure%20your%20Descope%20and%20target%20MCP%20server&envLink=https%3A%2F%2Fgithub.com%2Forius123%2Ffastmcp-proxy-vercel%23configuration)
 
 ## Architecture
 
